@@ -5,3 +5,6 @@ Data set and R code for the 11/8/18 Data Science meetup presentation
 
 "Example ECLSK.R": R code to fit trees, cross-validated trees, and random forests on the ECLSK.dat data set.
 
+This is a fork of an original repo from Gabriela Stegmann https://github.com/gabistegmann/Data-Science-Meetup-11-8-18-Materials
+I made this so I could move the R code into a Jupyter Notebook with an R Kernel and play with the code to learn more about it.
+
